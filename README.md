@@ -6,7 +6,7 @@
 <p>El siguiente post está relacionado con este repositorio y se explica su puesta a punto en un servidor local, ya que se requiere una configuración específica a nivel de MySQL en el servidor local:</p>
 <!-- /wp:paragraph -->
 
-https://www.configuroweb.com/crud-en-php-con-ajax-y-datatable/
+https://www.configuroweb.com/46-aplicaciones-gratuitas-en-php-python-y-javascript/#CRUD-en-PHP-con-Ajax-y-DataTable
 
 <!-- wp:paragraph -->
 <p>Me puedes contactar a mi Whatsapp en el siguiente enlace:</p>
